@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0093-restore-ip-addresses](https://github.com/navyabathla/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0520-detect-capital](https://github.com/navyabathla/leetcode/tree/master/0520-detect-capital) |
 ## Array
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+## Backtracking
+|  |
+| ------- |
+| [0093-restore-ip-addresses](https://github.com/navyabathla/leetcode/tree/master/0093-restore-ip-addresses) |
 <!---LeetCode Topics End-->
