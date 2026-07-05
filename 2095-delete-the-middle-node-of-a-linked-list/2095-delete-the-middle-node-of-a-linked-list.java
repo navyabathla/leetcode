@@ -11,25 +11,40 @@
 
 
 class Solution {
+    private int getSize(ListNode head) {
+        int count = 0;
+
+        while (head != null) {
+            count++;
+            head = head.next;
+        }
+
+        return count;
+    }
    
     public ListNode deleteMiddle(ListNode head) {
+        // If there is only one node
         if (head == null || head.next == null) {
-        return null;
-    }
+            return null;
+        }
 
-    ListNode slow = head;
-    ListNode fast = head;
-    ListNode prev = null;
+        int n = getSize(head);
+        int middle = n / 2;
 
-    while (fast != null && fast.next != null) {
-        prev = slow;
-        slow = slow.next;
-        fast = fast.next.next;
-    }
+        ListNode curr = head;
+        ListNode prev = null;
 
-    prev.next = slow.next;
-    return head;
+        for (int i = 0; i < middle; i++) {
+            prev = curr;
+            curr = curr.next;
+        }
+
+        // Delete the middle node
+        prev.next = curr.next;
+
+        return head;
     }
+    
 
 }
    
