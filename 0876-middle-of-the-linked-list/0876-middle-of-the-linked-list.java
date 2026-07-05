@@ -9,14 +9,6 @@
  * }
  */
 class Solution {
-    private int getSize(ListNode head){
-        int count=0;
-        while(head!=null){
-            count++;
-            head=head.next;
-        }
-        return count;
-    }
     public ListNode middleNode(ListNode head) {
         if(head==null){
             return null;
@@ -24,13 +16,13 @@ class Solution {
         if(head.next==null){
             return head;
         }
-        int n=getSize(head);
-        int middle=n/2;
-        for(int i=0;i<middle;i++){
-            head=head.next;
+
+        ListNode slow=head;
+        ListNode fast=head;
+        while(fast!=null && fast.next!=null){
+            slow=slow.next;
+            fast=fast.next.next;
         }
-        return head;
-
-
+        return slow;
     }
 }
