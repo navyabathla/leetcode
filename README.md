@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/navyabathla/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/navyabathla/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0142-linked-list-cycle-ii](https://github.com/navyabathla/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0328-odd-even-linked-list](https://github.com/navyabathla/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/navyabathla/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/navyabathla/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Tree
 |  |
@@ -121,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/navyabathla/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/navyabathla/leetcode/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/navyabathla/leetcode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
