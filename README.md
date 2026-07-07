@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/navyabathla/leetcode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/navyabathla/leetcode/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/navyabathla/leetcode/tree/master/0880-decoded-string-at-index) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navyabathla/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navyabathla/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2272-substring-with-largest-variance](https://github.com/navyabathla/leetcode/tree/master/2272-substring-with-largest-variance) |
 ## Array
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/navyabathla/leetcode/tree/master/0844-backspace-string-compare) |
 | [0880-decoded-string-at-index](https://github.com/navyabathla/leetcode/tree/master/0880-decoded-string-at-index) |
 | [0901-online-stock-span](https://github.com/navyabathla/leetcode/tree/master/0901-online-stock-span) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navyabathla/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navyabathla/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/navyabathla/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
