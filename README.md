@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/navyabathla/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0068-text-justification](https://github.com/navyabathla/leetcode/tree/master/0068-text-justification) |
 | [0093-restore-ip-addresses](https://github.com/navyabathla/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/navyabathla/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0392-is-subsequence](https://github.com/navyabathla/leetcode/tree/master/0392-is-subsequence) |
 | [0459-repeated-substring-pattern](https://github.com/navyabathla/leetcode/tree/master/0459-repeated-substring-pattern) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
 | [0316-remove-duplicate-letters](https://github.com/navyabathla/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/navyabathla/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/navyabathla/leetcode/tree/master/0844-backspace-string-compare) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
 | [0382-linked-list-random-node](https://github.com/navyabathla/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/navyabathla/leetcode/tree/master/0445-add-two-numbers-ii) |
 ## Reservoir Sampling
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/navyabathla/leetcode/tree/master/0901-online-stock-span) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
