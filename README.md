@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/navyabathla/leetcode/tree/master/0068-text-justification) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0907-sum-of-subarray-minimums](https://github.com/navyabathla/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 ## Hash Table
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
 | [0232-implement-queue-using-stacks](https://github.com/navyabathla/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0316-remove-duplicate-letters](https://github.com/navyabathla/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
 | [0382-linked-list-random-node](https://github.com/navyabathla/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/navyabathla/leetcode/tree/master/0445-add-two-numbers-ii) |
