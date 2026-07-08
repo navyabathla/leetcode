@@ -13,10 +13,10 @@ class Solution {
             else if (ch == '[') {
                 stack.push(']');
             } 
+            else if (stack.isEmpty() || stack.peek() != ch) {
+                return false;
+            } 
             else {
-                if (stack.isEmpty() || stack.peek() != ch) {
-                    return false;
-                }
                 stack.pop();
             }
         }
