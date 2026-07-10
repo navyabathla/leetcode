@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/navyabathla/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/navyabathla/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/navyabathla/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/navyabathla/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navyabathla/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/navyabathla/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/navyabathla/leetcode/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/navyabathla/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0901-online-stock-span](https://github.com/navyabathla/leetcode/tree/master/0901-online-stock-span) |
 | [0907-sum-of-subarray-minimums](https://github.com/navyabathla/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navyabathla/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2487-remove-nodes-from-linked-list](https://github.com/navyabathla/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/navyabathla/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/navyabathla/leetcode/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/navyabathla/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
 |  |
 | ------- |
