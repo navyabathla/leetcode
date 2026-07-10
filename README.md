@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/navyabathla/leetcode/tree/master/0068-text-justification) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/navyabathla/leetcode/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/navyabathla/leetcode/tree/master/0867-transpose-matrix) |
 | [0907-sum-of-subarray-minimums](https://github.com/navyabathla/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navyabathla/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/navyabathla/leetcode/tree/master/0068-text-justification) |
 | [0844-backspace-string-compare](https://github.com/navyabathla/leetcode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/navyabathla/leetcode/tree/master/0867-transpose-matrix) |
 | [1688-count-of-matches-in-tournament](https://github.com/navyabathla/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/navyabathla/leetcode/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2390-removing-stars-from-a-string](https://github.com/navyabathla/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -237,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navyabathla/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/navyabathla/leetcode/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
