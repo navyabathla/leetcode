@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/navyabathla/leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/navyabathla/leetcode/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/navyabathla/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/navyabathla/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/navyabathla/leetcode/tree/master/0867-transpose-matrix) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/navyabathla/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/navyabathla/leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/navyabathla/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/navyabathla/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/navyabathla/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [2187-minimum-time-to-complete-trips](https://github.com/navyabathla/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
