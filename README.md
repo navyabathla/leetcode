@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navyabathla/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/navyabathla/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2187-minimum-time-to-complete-trips](https://github.com/navyabathla/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2706-buy-two-chocolates](https://github.com/navyabathla/leetcode/tree/master/2706-buy-two-chocolates) |
 ## Hash Table
 |  |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0456-132-pattern](https://github.com/navyabathla/leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [1539-kth-missing-positive-number](https://github.com/navyabathla/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [2187-minimum-time-to-complete-trips](https://github.com/navyabathla/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 ## Interactive
 |  |
 | ------- |
