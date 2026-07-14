@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0068-text-justification](https://github.com/navyabathla/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/navyabathla/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/navyabathla/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navyabathla/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0456-132-pattern](https://github.com/navyabathla/leetcode/tree/master/0456-132-pattern) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/navyabathla/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/navyabathla/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/navyabathla/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0374-guess-number-higher-or-lower](https://github.com/navyabathla/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/navyabathla/leetcode/tree/master/0456-132-pattern) |
