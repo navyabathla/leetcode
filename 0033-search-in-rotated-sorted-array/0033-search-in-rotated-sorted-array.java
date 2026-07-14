@@ -1,33 +1,52 @@
 class Solution {
     public int search(int[] nums, int target) {
-        int low = 0;
-        int high = nums.length - 1;
+        int arrayLength = nums.length;
 
-        while (low <= high) {
+        int pivotIndex = findPivot(nums, 0, arrayLength - 1);
 
-            int mid = (low + high) / 2;
+        if (nums[pivotIndex] == target) {
+            return pivotIndex;
+        }
 
-            if (nums[mid] == target)
-                return mid;
+        int targetIndex = binarySearch(nums, pivotIndex + 1, arrayLength - 1, target);
 
-            if (nums[low] <= nums[mid]) {
+        if (targetIndex != -1) {
+            return targetIndex;
+        }
 
-                if (nums[low] <= target && target < nums[mid]) {
-                    high = mid - 1;
-                }
-                else {
-                    low = mid + 1;
-                }
+        return binarySearch(nums, 0, pivotIndex - 1, target);
+
+    }
+    private int findPivot(int[] nums, int left, int right) {
+
+        while (left < right) {
+
+            int middle = left + (right - left) / 2;
+
+            if (nums[middle] > nums[right]) {
+                left = middle + 1;
+            } else {
+                right = middle;
+            }
+        }
+
+        return right;
+    }
+
+    private int binarySearch(int[] nums, int left, int right, int target) {
+
+        while (left <= right) {
+
+            int middle = left + (right - left) / 2;
+
+            if (nums[middle] == target) {
+                return middle;
             }
 
-            else {
-
-                if (nums[mid] < target && target <= nums[high]) {
-                    low = mid + 1;
-                }
-                else {
-                    high = mid - 1;
-                }
+            if (nums[middle] < target) {
+                left = middle + 1;
+            } else {
+                right = middle - 1;
             }
         }
 
