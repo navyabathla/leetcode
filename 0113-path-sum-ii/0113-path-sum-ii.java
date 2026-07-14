@@ -1,48 +1,24 @@
-/**
- * Definition for a binary tree node.
- * public class TreeNode {
- *     int val;
- *     TreeNode left;
- *     TreeNode right;
- *     TreeNode() {}
- *     TreeNode(int val) { this.val = val; }
- *     TreeNode(int val, TreeNode left, TreeNode right) {
- *         this.val = val;
- *         this.left = left;
- *         this.right = right;
- *     }
- * }
- */
-class Solution {
-    public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
-        List<List<Integer>> paths = new ArrayList<>();
-
-        dfs(root, targetSum, new ArrayList<>(), paths);
-
-        return paths;
-        
+public class Solution {
+    public List<List<Integer>> pathSum(TreeNode root, int sum) {
+        List<List<Integer>> result = new ArrayList<>();
+        List<Integer> temp = new ArrayList<>();
+        collectPaths(root, sum, temp, result);
+        return result;
     }
-    private void dfs(TreeNode currentNode, int remainingSum,
-                     List<Integer> currentPath,
-                     List<List<Integer>> paths) {
 
-        if (currentNode == null) {
+    private void collectPaths(TreeNode root, int curr, List<Integer> temp, List<List<Integer>> result) {
+        if (root == null)
             return;
+        
+        temp.add(root.val);
+
+        if (root.left == null && root.right == null && root.val == curr) {
+            result.add(new ArrayList<>(temp));
         }
 
-        currentPath.add(currentNode.val);
+        collectPaths(root.left, curr - root.val, temp, result);
+        collectPaths(root.right, curr - root.val, temp, result);
 
-        remainingSum -= currentNode.val;
-
-        if (currentNode.left == null && currentNode.right == null
-                && remainingSum == 0) {
-
-            paths.add(new ArrayList<>(currentPath));
-        }
-
-        dfs(currentNode.left, remainingSum, currentPath, paths);
-        dfs(currentNode.right, remainingSum, currentPath, paths);
-
-        currentPath.remove(currentPath.size() - 1);
-                     }
+        temp.remove(temp.size() - 1);
+    }
 }
