@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/navyabathla/leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/navyabathla/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0456-132-pattern](https://github.com/navyabathla/leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/navyabathla/leetcode/tree/master/0704-binary-search) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/navyabathla/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/navyabathla/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/navyabathla/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/navyabathla/leetcode/tree/master/0389-find-the-difference) |
 | [0705-design-hashset](https://github.com/navyabathla/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/navyabathla/leetcode/tree/master/0706-design-hashmap) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/navyabathla/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/navyabathla/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/navyabathla/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/navyabathla/leetcode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyabathla/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/navyabathla/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -123,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/navyabathla/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/navyabathla/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/navyabathla/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/navyabathla/leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navyabathla/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/navyabathla/leetcode/tree/master/0844-backspace-string-compare) |
@@ -182,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/navyabathla/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/navyabathla/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/navyabathla/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/navyabathla/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0456-132-pattern](https://github.com/navyabathla/leetcode/tree/master/0456-132-pattern) |
 | [0540-single-element-in-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
