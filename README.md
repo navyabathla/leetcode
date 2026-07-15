@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/navyabathla/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/navyabathla/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/navyabathla/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navyabathla/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/navyabathla/leetcode/tree/master/0169-majority-element) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/navyabathla/leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/navyabathla/leetcode/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/navyabathla/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/navyabathla/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/navyabathla/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/navyabathla/leetcode/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/navyabathla/leetcode/tree/master/0234-palindrome-linked-list) |
