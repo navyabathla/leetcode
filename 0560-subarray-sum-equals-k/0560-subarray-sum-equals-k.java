@@ -1,29 +1,27 @@
 class Solution {
     public int subarraySum(int[] nums, int k) {
-                // Size of the array
-        int n = nums.length;
+        HashMap<Integer, Integer> prefixSumFrequency = new HashMap<>();
 
-        // Initialize count of subarrays
-        int count = 0;
+        prefixSumFrequency.put(0, 1);
 
-        // Traverse all possible start indices
-        for (int i = 0; i < n; i++) {
-            // Initialize sum for current subarray
-            int sum = 0;
+        int currentSum = 0;
+        int subarrayCount = 0;
 
-            // Traverse all possible end indices from start
-            for (int j = i; j < n; j++) {
-                // Add current element to sum
-                sum += nums[j];
+        for (int number : nums) {
 
-                // If sum equals k, increment count
-                if (sum == k) {
-                    count++;
-                }
+            currentSum += number;
+
+            if (prefixSumFrequency.containsKey(currentSum - k)) {
+                subarrayCount += prefixSumFrequency.get(currentSum - k);
             }
+
+            prefixSumFrequency.put(
+                    currentSum,
+                    prefixSumFrequency.getOrDefault(currentSum, 0) + 1
+            );
         }
 
-        // Return total count of subarrays
-        return count;
+        return subarrayCount;
+
     }
 }
