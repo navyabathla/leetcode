@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0946-validate-stack-sequences](https://github.com/navyabathla/leetcode/tree/master/0946-validate-stack-sequences) |
 | [1110-delete-nodes-and-return-forest](https://github.com/navyabathla/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navyabathla/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
+| [1207-unique-number-of-occurrences](https://github.com/navyabathla/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/navyabathla/leetcode/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/navyabathla/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyabathla/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/navyabathla/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navyabathla/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/navyabathla/leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
+| [1207-unique-number-of-occurrences](https://github.com/navyabathla/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/navyabathla/leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/navyabathla/leetcode/tree/master/1496-path-crossing) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
