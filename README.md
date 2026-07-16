@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/navyabathla/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/navyabathla/leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/navyabathla/leetcode/tree/master/1496-path-crossing) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/navyabathla/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navyabathla/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/navyabathla/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/navyabathla/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/navyabathla/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1436-destination-city](https://github.com/navyabathla/leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/navyabathla/leetcode/tree/master/1496-path-crossing) |
+| [1624-largest-substring-between-two-equal-characters](https://github.com/navyabathla/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/navyabathla/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
