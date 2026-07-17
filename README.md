@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/navyabathla/leetcode/tree/master/1539-kth-missing-positive-number) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navyabathla/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/navyabathla/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
 | [2187-minimum-time-to-complete-trips](https://github.com/navyabathla/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/navyabathla/leetcode/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/navyabathla/leetcode/tree/master/0875-koko-eating-bananas) |
 | [1539-kth-missing-positive-number](https://github.com/navyabathla/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2187-minimum-time-to-complete-trips](https://github.com/navyabathla/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/navyabathla/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/navyabathla/leetcode/tree/master/2439-minimize-maximum-of-array) |
@@ -450,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/navyabathla/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0867-transpose-matrix](https://github.com/navyabathla/leetcode/tree/master/0867-transpose-matrix) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navyabathla/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Ordered Set
 |  |
 | ------- |
@@ -486,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/navyabathla/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/navyabathla/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/navyabathla/leetcode/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -498,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/navyabathla/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/navyabathla/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/navyabathla/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Hash Function
 |  |
 | ------- |
@@ -511,4 +516,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/navyabathla/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
