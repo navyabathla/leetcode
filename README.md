@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/navyabathla/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/navyabathla/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/navyabathla/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/navyabathla/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navyabathla/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/navyabathla/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/navyabathla/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2439-minimize-maximum-of-array](https://github.com/navyabathla/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/navyabathla/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2706-buy-two-chocolates](https://github.com/navyabathla/leetcode/tree/master/2706-buy-two-chocolates) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/navyabathla/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/navyabathla/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/navyabathla/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/navyabathla/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/navyabathla/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/navyabathla/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/navyabathla/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/navyabathla/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/navyabathla/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/navyabathla/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/navyabathla/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2439-minimize-maximum-of-array](https://github.com/navyabathla/leetcode/tree/master/2439-minimize-maximum-of-array) |
