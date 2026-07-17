@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/navyabathla/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/navyabathla/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/navyabathla/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/navyabathla/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2225-find-players-with-zero-or-one-losses](https://github.com/navyabathla/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2272-substring-with-largest-variance](https://github.com/navyabathla/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/navyabathla/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/navyabathla/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
 | ------- |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navyabathla/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/navyabathla/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/navyabathla/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/navyabathla/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Matrix
 |  |
 | ------- |
