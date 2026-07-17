@@ -319,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/navyabathla/leetcode/tree/master/0231-power-of-two) |
 | [0382-linked-list-random-node](https://github.com/navyabathla/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/navyabathla/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [1688-count-of-matches-in-tournament](https://github.com/navyabathla/leetcode/tree/master/1688-count-of-matches-in-tournament) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/navyabathla/leetcode/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/navyabathla/leetcode/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/navyabathla/leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/navyabathla/leetcode/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/navyabathla/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Queue
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/navyabathla/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/navyabathla/leetcode/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/navyabathla/leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
