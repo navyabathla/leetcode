@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/navyabathla/leetcode/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/navyabathla/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/navyabathla/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2963-count-the-number-of-good-partitions](https://github.com/navyabathla/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/navyabathla/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/navyabathla/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Hash Table
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2272-substring-with-largest-variance](https://github.com/navyabathla/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2540-minimum-common-value](https://github.com/navyabathla/leetcode/tree/master/2540-minimum-common-value) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/navyabathla/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2963-count-the-number-of-good-partitions](https://github.com/navyabathla/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/navyabathla/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Greedy
 |  |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/navyabathla/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/navyabathla/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/navyabathla/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2963-count-the-number-of-good-partitions](https://github.com/navyabathla/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -562,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/navyabathla/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
+## Combinatorics
+|  |
+| ------- |
+| [2963-count-the-number-of-good-partitions](https://github.com/navyabathla/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 <!---LeetCode Topics End-->
