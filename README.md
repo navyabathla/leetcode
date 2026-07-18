@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/navyabathla/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/navyabathla/leetcode/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navyabathla/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/navyabathla/leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/navyabathla/leetcode/tree/master/0844-backspace-string-compare) |
 | [0859-buddy-strings](https://github.com/navyabathla/leetcode/tree/master/0859-buddy-strings) |
 | [0880-decoded-string-at-index](https://github.com/navyabathla/leetcode/tree/master/0880-decoded-string-at-index) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0652-find-duplicate-subtrees](https://github.com/navyabathla/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0705-design-hashset](https://github.com/navyabathla/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/navyabathla/leetcode/tree/master/0706-design-hashmap) |
+| [0763-partition-labels](https://github.com/navyabathla/leetcode/tree/master/0763-partition-labels) |
 | [0859-buddy-strings](https://github.com/navyabathla/leetcode/tree/master/0859-buddy-strings) |
 | [1110-delete-nodes-and-return-forest](https://github.com/navyabathla/leetcode/tree/master/1110-delete-nodes-and-return-forest) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navyabathla/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/navyabathla/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/navyabathla/leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/navyabathla/leetcode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navyabathla/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/navyabathla/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -208,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/navyabathla/leetcode/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/navyabathla/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0763-partition-labels](https://github.com/navyabathla/leetcode/tree/master/0763-partition-labels) |
 | [0844-backspace-string-compare](https://github.com/navyabathla/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/navyabathla/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/navyabathla/leetcode/tree/master/0881-boats-to-save-people) |
