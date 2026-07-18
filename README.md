@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/navyabathla/leetcode/tree/master/0739-daily-temperatures) |
 | [0867-transpose-matrix](https://github.com/navyabathla/leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/navyabathla/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0881-boats-to-save-people](https://github.com/navyabathla/leetcode/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/navyabathla/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [0946-validate-stack-sequences](https://github.com/navyabathla/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/navyabathla/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/navyabathla/leetcode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navyabathla/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/navyabathla/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/navyabathla/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/navyabathla/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/navyabathla/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
+| [0881-boats-to-save-people](https://github.com/navyabathla/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyabathla/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/navyabathla/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/navyabathla/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/navyabathla/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/navyabathla/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [0881-boats-to-save-people](https://github.com/navyabathla/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/navyabathla/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/navyabathla/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
