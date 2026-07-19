@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/navyabathla/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1436-destination-city](https://github.com/navyabathla/leetcode/tree/master/1436-destination-city) |
 | [1496-path-crossing](https://github.com/navyabathla/leetcode/tree/master/1496-path-crossing) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/navyabathla/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/navyabathla/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1750-minimum-length-of-string-after-deleting-similar-ends](https://github.com/navyabathla/leetcode/tree/master/1750-minimum-length-of-string-after-deleting-similar-ends) |
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/navyabathla/leetcode/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/navyabathla/leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navyabathla/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1441-build-an-array-with-stack-operations](https://github.com/navyabathla/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/navyabathla/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/navyabathla/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/navyabathla/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/navyabathla/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
