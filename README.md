@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/navyabathla/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/navyabathla/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3634-minimum-removals-to-balance-array](https://github.com/navyabathla/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/navyabathla/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2956-find-common-elements-between-two-arrays](https://github.com/navyabathla/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2963-count-the-number-of-good-partitions](https://github.com/navyabathla/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/navyabathla/leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3719-longest-balanced-subarray-i](https://github.com/navyabathla/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navyabathla/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/navyabathla/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/navyabathla/leetcode/tree/master/0169-majority-element) |
+| [3719-longest-balanced-subarray-i](https://github.com/navyabathla/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
 |  |
 | ------- |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1422-maximum-score-after-splitting-a-string](https://github.com/navyabathla/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [2439-minimize-maximum-of-array](https://github.com/navyabathla/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/navyabathla/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
+| [3719-longest-balanced-subarray-i](https://github.com/navyabathla/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -586,4 +590,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2963-count-the-number-of-good-partitions](https://github.com/navyabathla/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/navyabathla/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
