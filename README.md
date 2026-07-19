@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/navyabathla/leetcode/tree/master/0071-simplify-path) |
 | [0093-restore-ip-addresses](https://github.com/navyabathla/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0151-reverse-words-in-a-string](https://github.com/navyabathla/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/navyabathla/leetcode/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/navyabathla/leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/navyabathla/leetcode/tree/master/0290-word-pattern) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/navyabathla/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/navyabathla/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/navyabathla/leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/navyabathla/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/navyabathla/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/navyabathla/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/navyabathla/leetcode/tree/master/0242-valid-anagram) |
