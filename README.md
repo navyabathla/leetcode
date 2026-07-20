@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/navyabathla/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/navyabathla/leetcode/tree/master/0881-boats-to-save-people) |
 | [0907-sum-of-subarray-minimums](https://github.com/navyabathla/leetcode/tree/master/0907-sum-of-subarray-minimums) |
+| [0912-sort-an-array](https://github.com/navyabathla/leetcode/tree/master/0912-sort-an-array) |
 | [0946-validate-stack-sequences](https://github.com/navyabathla/leetcode/tree/master/0946-validate-stack-sequences) |
 | [0962-maximum-width-ramp](https://github.com/navyabathla/leetcode/tree/master/0962-maximum-width-ramp) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0977-squares-of-a-sorted-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
 | [0869-reordered-power-of-2](https://github.com/navyabathla/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0881-boats-to-save-people](https://github.com/navyabathla/leetcode/tree/master/0881-boats-to-save-people) |
+| [0912-sort-an-array](https://github.com/navyabathla/leetcode/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/navyabathla/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/navyabathla/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
@@ -422,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navyabathla/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/navyabathla/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/navyabathla/leetcode/tree/master/0169-majority-element) |
+| [0912-sort-an-array](https://github.com/navyabathla/leetcode/tree/master/0912-sort-an-array) |
 | [1382-balance-a-binary-search-tree](https://github.com/navyabathla/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/navyabathla/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Tree
@@ -511,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/navyabathla/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/navyabathla/leetcode/tree/master/0912-sort-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/navyabathla/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyabathla/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/navyabathla/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -518,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/navyabathla/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/navyabathla/leetcode/tree/master/0912-sort-an-array) |
 ## Design
 |  |
 | ------- |
@@ -646,4 +651,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/navyabathla/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/navyabathla/leetcode/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/navyabathla/leetcode/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/navyabathla/leetcode/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
