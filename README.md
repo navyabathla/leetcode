@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/navyabathla/leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1207-unique-number-of-occurrences](https://github.com/navyabathla/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/navyabathla/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/navyabathla/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1436-destination-city](https://github.com/navyabathla/leetcode/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/navyabathla/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyabathla/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/navyabathla/leetcode/tree/master/0763-partition-labels) |
 | [0881-boats-to-save-people](https://github.com/navyabathla/leetcode/tree/master/0881-boats-to-save-people) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/navyabathla/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/navyabathla/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1382-balance-a-binary-search-tree](https://github.com/navyabathla/leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/navyabathla/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/navyabathla/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/navyabathla/leetcode/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1288-remove-covered-intervals](https://github.com/navyabathla/leetcode/tree/master/1288-remove-covered-intervals) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/navyabathla/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyabathla/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1498-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/navyabathla/leetcode/tree/master/1498-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1552-magnetic-force-between-two-balls](https://github.com/navyabathla/leetcode/tree/master/1552-magnetic-force-between-two-balls) |
@@ -502,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/navyabathla/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [1353-maximum-number-of-events-that-can-be-attended](https://github.com/navyabathla/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/navyabathla/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Merge Sort
 |  |
