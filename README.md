@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/navyabathla/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/navyabathla/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2073-time-needed-to-buy-tickets](https://github.com/navyabathla/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/navyabathla/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/navyabathla/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/navyabathla/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1903-largest-odd-number-in-string](https://github.com/navyabathla/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/navyabathla/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/navyabathla/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/navyabathla/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/navyabathla/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/navyabathla/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/navyabathla/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2007-find-original-array-from-doubled-array](https://github.com/navyabathla/leetcode/tree/master/2007-find-original-array-from-doubled-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/navyabathla/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/navyabathla/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/navyabathla/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/navyabathla/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
@@ -730,6 +733,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0912-sort-an-array](https://github.com/navyabathla/leetcode/tree/master/0912-sort-an-array) |
 | [1122-relative-sort-array](https://github.com/navyabathla/leetcode/tree/master/1122-relative-sort-array) |
+| [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/navyabathla/leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 ## Trie
 |  |
 | ------- |
