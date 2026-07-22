@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0454-4sum-ii](https://github.com/navyabathla/leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/navyabathla/leetcode/tree/master/0456-132-pattern) |
+| [0506-relative-ranks](https://github.com/navyabathla/leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/navyabathla/leetcode/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/navyabathla/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/navyabathla/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/navyabathla/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/navyabathla/leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/navyabathla/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/navyabathla/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0881-boats-to-save-people](https://github.com/navyabathla/leetcode/tree/master/0881-boats-to-save-people) |
@@ -539,6 +541,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/navyabathla/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0506-relative-ranks](https://github.com/navyabathla/leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/navyabathla/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/navyabathla/leetcode/tree/master/0912-sort-an-array) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/navyabathla/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
