@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1582-special-positions-in-a-binary-matrix](https://github.com/navyabathla/leetcode/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1765-map-of-highest-peak](https://github.com/navyabathla/leetcode/tree/master/1765-map-of-highest-peak) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/navyabathla/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/navyabathla/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/navyabathla/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/navyabathla/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/navyabathla/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/navyabathla/leetcode/tree/master/0113-path-sum-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/navyabathla/leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Two Pointers
 |  |
 | ------- |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/navyabathla/leetcode/tree/master/0869-reordered-power-of-2) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2272-substring-with-largest-variance](https://github.com/navyabathla/leetcode/tree/master/2272-substring-with-largest-variance) |
 ## Linked List
 |  |
@@ -432,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/navyabathla/leetcode/tree/master/0869-reordered-power-of-2) |
 | [1137-n-th-tribonacci-number](https://github.com/navyabathla/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/navyabathla/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/navyabathla/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/navyabathla/leetcode/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/navyabathla/leetcode/tree/master/2864-maximum-odd-binary-number) |
@@ -591,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/navyabathla/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/navyabathla/leetcode/tree/master/0389-find-the-difference) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/navyabathla/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Counting
 |  |
 | ------- |
@@ -702,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2963-count-the-number-of-good-partitions](https://github.com/navyabathla/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 ## Segment Tree
 |  |
