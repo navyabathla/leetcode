@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/navyabathla/leetcode/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/navyabathla/leetcode/tree/master/0068-text-justification) |
+| [0258-add-digits](https://github.com/navyabathla/leetcode/tree/master/0258-add-digits) |
 | [0735-asteroid-collision](https://github.com/navyabathla/leetcode/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/navyabathla/leetcode/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/navyabathla/leetcode/tree/master/0867-transpose-matrix) |
@@ -487,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/navyabathla/leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/navyabathla/leetcode/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/navyabathla/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/navyabathla/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0869-reordered-power-of-2](https://github.com/navyabathla/leetcode/tree/master/0869-reordered-power-of-2) |
@@ -819,4 +821,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/navyabathla/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/navyabathla/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
