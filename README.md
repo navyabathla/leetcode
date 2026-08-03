@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/navyabathla/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1288-remove-covered-intervals](https://github.com/navyabathla/leetcode/tree/master/1288-remove-covered-intervals) |
 | [1353-maximum-number-of-events-that-can-be-attended](https://github.com/navyabathla/leetcode/tree/master/1353-maximum-number-of-events-that-can-be-attended) |
+| [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/navyabathla/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1436-destination-city](https://github.com/navyabathla/leetcode/tree/master/1436-destination-city) |
 | [1441-build-an-array-with-stack-operations](https://github.com/navyabathla/leetcode/tree/master/1441-build-an-array-with-stack-operations) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-sum-of-subarray-minimums](https://github.com/navyabathla/leetcode/tree/master/0907-sum-of-subarray-minimums) |
 | [1137-n-th-tribonacci-number](https://github.com/navyabathla/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1162-as-far-from-land-as-possible](https://github.com/navyabathla/leetcode/tree/master/1162-as-far-from-land-as-possible) |
+| [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/navyabathla/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2272-substring-with-largest-variance](https://github.com/navyabathla/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2439-minimize-maximum-of-array](https://github.com/navyabathla/leetcode/tree/master/2439-minimize-maximum-of-array) |
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0869-reordered-power-of-2](https://github.com/navyabathla/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/navyabathla/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/navyabathla/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
 | [1688-count-of-matches-in-tournament](https://github.com/navyabathla/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/navyabathla/leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -897,8 +900,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/navyabathla/leetcode/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/navyabathla/leetcode/tree/master/0877-stone-game) |
+| [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/navyabathla/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
