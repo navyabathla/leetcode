@@ -366,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/navyabathla/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/navyabathla/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0055-jump-game](https://github.com/navyabathla/leetcode/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/navyabathla/leetcode/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/navyabathla/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/navyabathla/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/navyabathla/leetcode/tree/master/0338-counting-bits) |
@@ -522,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/navyabathla/leetcode/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/navyabathla/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/navyabathla/leetcode/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/navyabathla/leetcode/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/navyabathla/leetcode/tree/master/0231-power-of-two) |
@@ -890,6 +892,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/navyabathla/leetcode/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/navyabathla/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Monotonic Queue
 |  |
