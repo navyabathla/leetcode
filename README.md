@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/navyabathla/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/navyabathla/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/navyabathla/leetcode/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/navyabathla/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/navyabathla/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/navyabathla/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/navyabathla/leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/navyabathla/leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/navyabathla/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
 | [0763-partition-labels](https://github.com/navyabathla/leetcode/tree/master/0763-partition-labels) |
@@ -363,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/navyabathla/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/navyabathla/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/navyabathla/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0055-jump-game](https://github.com/navyabathla/leetcode/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/navyabathla/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/navyabathla/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0338-counting-bits](https://github.com/navyabathla/leetcode/tree/master/0338-counting-bits) |
