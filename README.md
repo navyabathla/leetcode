@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/navyabathla/leetcode/tree/master/0047-permutations-ii) |
 | [0052-n-queens-ii](https://github.com/navyabathla/leetcode/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/navyabathla/leetcode/tree/master/0077-combinations) |
+| [0089-gray-code](https://github.com/navyabathla/leetcode/tree/master/0089-gray-code) |
 | [0093-restore-ip-addresses](https://github.com/navyabathla/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0113-path-sum-ii](https://github.com/navyabathla/leetcode/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/navyabathla/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/navyabathla/leetcode/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/navyabathla/leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/navyabathla/leetcode/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/navyabathla/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/navyabathla/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/navyabathla/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0224-basic-calculator](https://github.com/navyabathla/leetcode/tree/master/0224-basic-calculator) |
@@ -735,6 +737,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/navyabathla/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/navyabathla/leetcode/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/navyabathla/leetcode/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/navyabathla/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/navyabathla/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/navyabathla/leetcode/tree/master/0191-number-of-1-bits) |
