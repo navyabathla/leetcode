@@ -753,6 +753,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/navyabathla/leetcode/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/navyabathla/leetcode/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/navyabathla/leetcode/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/navyabathla/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/navyabathla/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Counting
