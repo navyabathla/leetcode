@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/navyabathla/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/navyabathla/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/navyabathla/leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/navyabathla/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/navyabathla/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/navyabathla/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/navyabathla/leetcode/tree/master/0049-group-anagrams) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/navyabathla/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/navyabathla/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/navyabathla/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0316-remove-duplicate-letters](https://github.com/navyabathla/leetcode/tree/master/0316-remove-duplicate-letters) |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/navyabathla/leetcode/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/navyabathla/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/navyabathla/leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0045-jump-game-ii](https://github.com/navyabathla/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/navyabathla/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/navyabathla/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/navyabathla/leetcode/tree/master/0096-unique-binary-search-trees) |
