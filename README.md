@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/navyabathla/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/navyabathla/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/navyabathla/leetcode/tree/master/3731-find-missing-elements) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/navyabathla/leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Hash Table
 |  |
 | ------- |
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/navyabathla/leetcode/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/navyabathla/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/navyabathla/leetcode/tree/master/2540-minimum-common-value) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/navyabathla/leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## String Matching
 |  |
 | ------- |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2448-minimum-cost-to-make-array-equal](https://github.com/navyabathla/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2540-minimum-common-value](https://github.com/navyabathla/leetcode/tree/master/2540-minimum-common-value) |
 | [3634-minimum-removals-to-balance-array](https://github.com/navyabathla/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/navyabathla/leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Interactive
 |  |
 | ------- |
@@ -760,6 +763,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/navyabathla/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/navyabathla/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/navyabathla/leetcode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Counting
 |  |
 | ------- |
