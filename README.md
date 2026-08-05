@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/navyabathla/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/navyabathla/leetcode/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/navyabathla/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0312-burst-balloons](https://github.com/navyabathla/leetcode/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navyabathla/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0454-4sum-ii](https://github.com/navyabathla/leetcode/tree/master/0454-4sum-ii) |
@@ -389,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/navyabathla/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/navyabathla/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/navyabathla/leetcode/tree/master/0198-house-robber) |
+| [0312-burst-balloons](https://github.com/navyabathla/leetcode/tree/master/0312-burst-balloons) |
 | [0338-counting-bits](https://github.com/navyabathla/leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/navyabathla/leetcode/tree/master/0392-is-subsequence) |
 | [0542-01-matrix](https://github.com/navyabathla/leetcode/tree/master/0542-01-matrix) |
