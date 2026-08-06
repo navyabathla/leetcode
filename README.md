@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0312-burst-balloons](https://github.com/navyabathla/leetcode/tree/master/0312-burst-balloons) |
 | [0349-intersection-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navyabathla/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/navyabathla/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0454-4sum-ii](https://github.com/navyabathla/leetcode/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/navyabathla/leetcode/tree/master/0456-132-pattern) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/navyabathla/leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/navyabathla/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/navyabathla/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0383-ransom-note](https://github.com/navyabathla/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/navyabathla/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/navyabathla/leetcode/tree/master/0389-find-the-difference) |
@@ -568,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/navyabathla/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/navyabathla/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/navyabathla/leetcode/tree/master/0292-nim-game) |
+| [0380-insert-delete-getrandom-o1](https://github.com/navyabathla/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/navyabathla/leetcode/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/navyabathla/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/navyabathla/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -591,6 +594,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Randomized
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/navyabathla/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0382-linked-list-random-node](https://github.com/navyabathla/leetcode/tree/master/0382-linked-list-random-node) |
 ## Divide and Conquer
 |  |
@@ -735,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/navyabathla/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/navyabathla/leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/navyabathla/leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/navyabathla/leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0705-design-hashset](https://github.com/navyabathla/leetcode/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/navyabathla/leetcode/tree/master/0706-design-hashmap) |
 | [0901-online-stock-span](https://github.com/navyabathla/leetcode/tree/master/0901-online-stock-span) |
