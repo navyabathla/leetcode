@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/navyabathla/leetcode/tree/master/1162-as-far-from-land-as-possible) |
 | [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/navyabathla/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [1510-stone-game-iv](https://github.com/navyabathla/leetcode/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/navyabathla/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2272-substring-with-largest-variance](https://github.com/navyabathla/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2439-minimize-maximum-of-array](https://github.com/navyabathla/leetcode/tree/master/2439-minimize-maximum-of-array) |
@@ -588,6 +589,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-n-th-tribonacci-number](https://github.com/navyabathla/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/navyabathla/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/navyabathla/leetcode/tree/master/1510-stone-game-iv) |
 | [1688-count-of-matches-in-tournament](https://github.com/navyabathla/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/navyabathla/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -997,6 +999,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/navyabathla/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/navyabathla/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/navyabathla/leetcode/tree/master/1510-stone-game-iv) |
 ## Quickselect
 |  |
 | ------- |
@@ -1006,11 +1009,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/navyabathla/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/navyabathla/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/navyabathla/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/navyabathla/leetcode/tree/master/1510-stone-game-iv) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -1019,4 +1024,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/navyabathla/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/navyabathla/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/navyabathla/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
