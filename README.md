@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/navyabathla/leetcode/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/navyabathla/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2000-reverse-prefix-of-word](https://github.com/navyabathla/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/navyabathla/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/navyabathla/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2272-substring-with-largest-variance](https://github.com/navyabathla/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2390-removing-stars-from-a-string](https://github.com/navyabathla/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/navyabathla/leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/navyabathla/leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2187-minimum-time-to-complete-trips](https://github.com/navyabathla/leetcode/tree/master/2187-minimum-time-to-complete-trips) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/navyabathla/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/navyabathla/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/navyabathla/leetcode/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/navyabathla/leetcode/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -841,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/navyabathla/leetcode/tree/master/0456-132-pattern) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/navyabathla/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -952,6 +955,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/navyabathla/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3719-longest-balanced-subarray-i](https://github.com/navyabathla/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Bucket Sort
 |  |
