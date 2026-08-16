@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/navyabathla/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/navyabathla/leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/navyabathla/leetcode/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/navyabathla/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/navyabathla/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/navyabathla/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/navyabathla/leetcode/tree/master/0520-detect-capital) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/navyabathla/leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/navyabathla/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/navyabathla/leetcode/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/navyabathla/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/navyabathla/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0454-4sum-ii](https://github.com/navyabathla/leetcode/tree/master/0454-4sum-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/navyabathla/leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -959,6 +961,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/navyabathla/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/navyabathla/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/navyabathla/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0424-longest-repeating-character-replacement](https://github.com/navyabathla/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/navyabathla/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0713-subarray-product-less-than-k](https://github.com/navyabathla/leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/navyabathla/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
