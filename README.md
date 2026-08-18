@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/navyabathla/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/navyabathla/leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/navyabathla/leetcode/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/navyabathla/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/navyabathla/leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/navyabathla/leetcode/tree/master/0066-plus-one) |
 | [0068-text-justification](https://github.com/navyabathla/leetcode/tree/master/0068-text-justification) |
@@ -442,6 +443,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/navyabathla/leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/navyabathla/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/navyabathla/leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/navyabathla/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/navyabathla/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/navyabathla/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/navyabathla/leetcode/tree/master/0096-unique-binary-search-trees) |
@@ -660,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/navyabathla/leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/navyabathla/leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/navyabathla/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/navyabathla/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navyabathla/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
