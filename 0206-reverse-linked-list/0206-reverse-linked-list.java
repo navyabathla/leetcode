@@ -10,17 +10,27 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        return reverseSolve(head);
+     
+    
 
-    }
-    private ListNode reverseSolve(ListNode head) {
-        if (head == null || head.next == null)
-            return head;
+        ListNode prev = null;
+        ListNode curr = head;
 
-        ListNode last = reverseSolve(head.next);
-        head.next.next = head;
-        head.next = null;
+        while (curr != null) {
 
-        return last;
+            // Save the next node
+            ListNode next = curr.next;
+
+            // Reverse the current pointer
+            curr.next = prev;
+
+            // Move prev forward
+            prev = curr;
+
+            // Move curr forward
+            curr = next;
+        }
+
+        return prev;
     }
 }
