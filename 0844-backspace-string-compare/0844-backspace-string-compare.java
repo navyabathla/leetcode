@@ -1,44 +1,52 @@
 class Solution {
     public boolean backspaceCompare(String s, String t) {
-        int i = s.length() - 1, j = t.length() - 1;
-        int skipS = 0, skipT = 0;
-        
+
+        int i = s.length() - 1;
+        int j = t.length() - 1;
+
         while (i >= 0 || j >= 0) {
-            while (i >= 0) {
-                if (s.charAt(i) == '#') {
-                    skipS++;
-                    i--;
-                } else if (skipS > 0) {
-                    skipS--;
-                    i--;
-                } else {
-                    break;
-                }
+
+            i = getNextValidIndex(s, i);
+            j = getNextValidIndex(t, j);
+
+            if (i < 0 && j < 0) {
+                return true;
             }
-            
-            while (j >= 0) {
-                if (t.charAt(j) == '#') {
-                    skipT++;
-                    j--;
-                } else if (skipT > 0) {
-                    skipT--;
-                    j--;
-                } else {
-                    break;
-                }
-            }
-            
-            char first = (i < 0) ? '$' : s.charAt(i);
-            char second = (j < 0) ? '$' : t.charAt(j);
-            
-            if (first != second) {
+
+            if (i < 0 || j < 0) {
                 return false;
             }
-            
+
+            if (s.charAt(i) != t.charAt(j)) {
+                return false;
+            }
+
             i--;
             j--;
         }
-        
+
         return true;
+    }
+
+    private int getNextValidIndex(String str, int index) {
+
+        int backspaces = 0;
+
+        while (index >= 0) {
+
+            if (str.charAt(index) == '#') {
+                backspaces++;
+            }
+            else if (backspaces > 0) {
+                backspaces--;
+            }
+            else {
+                break;
+            }
+
+            index--;
+        }
+
+        return index;
     }
 }
