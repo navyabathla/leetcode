@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/navyabathla/leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/navyabathla/leetcode/tree/master/1870-minimum-speed-to-arrive-on-time) |
+| [1872-stone-game-viii](https://github.com/navyabathla/leetcode/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/navyabathla/leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/navyabathla/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -485,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/navyabathla/leetcode/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/navyabathla/leetcode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/navyabathla/leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1872-stone-game-viii](https://github.com/navyabathla/leetcode/tree/master/1872-stone-game-viii) |
 | [2272-substring-with-largest-variance](https://github.com/navyabathla/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2439-minimize-maximum-of-array](https://github.com/navyabathla/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/navyabathla/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -663,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/navyabathla/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1837-sum-of-digits-in-base-k](https://github.com/navyabathla/leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/navyabathla/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1872-stone-game-viii](https://github.com/navyabathla/leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/navyabathla/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2029-stone-game-ix](https://github.com/navyabathla/leetcode/tree/master/2029-stone-game-ix) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/navyabathla/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -926,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/navyabathla/leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/navyabathla/leetcode/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1480-running-sum-of-1d-array](https://github.com/navyabathla/leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/navyabathla/leetcode/tree/master/1872-stone-game-viii) |
 | [2439-minimize-maximum-of-array](https://github.com/navyabathla/leetcode/tree/master/2439-minimize-maximum-of-array) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/navyabathla/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [3719-longest-balanced-subarray-i](https://github.com/navyabathla/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -1090,6 +1094,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/navyabathla/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navyabathla/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/navyabathla/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/navyabathla/leetcode/tree/master/2029-stone-game-ix) |
 ## Quickselect
 |  |
@@ -1101,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/navyabathla/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navyabathla/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/navyabathla/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/navyabathla/leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -1108,6 +1114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/navyabathla/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/navyabathla/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/navyabathla/leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/navyabathla/leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/navyabathla/leetcode/tree/master/2029-stone-game-ix) |
 ## Bracket Sequences
 |  |
