@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2272-substring-with-largest-variance](https://github.com/navyabathla/leetcode/tree/master/2272-substring-with-largest-variance) |
 | [2390-removing-stars-from-a-string](https://github.com/navyabathla/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/navyabathla/leetcode/tree/master/2864-maximum-odd-binary-number) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/navyabathla/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/navyabathla/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/navyabathla/leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/navyabathla/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -1016,6 +1017,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/navyabathla/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2090-k-radius-subarray-averages](https://github.com/navyabathla/leetcode/tree/master/2090-k-radius-subarray-averages) |
 | [2444-count-subarrays-with-fixed-bounds](https://github.com/navyabathla/leetcode/tree/master/2444-count-subarrays-with-fixed-bounds) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/navyabathla/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navyabathla/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/navyabathla/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3634-minimum-removals-to-balance-array](https://github.com/navyabathla/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
