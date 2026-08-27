@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/navyabathla/leetcode/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/navyabathla/leetcode/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/navyabathla/leetcode/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/navyabathla/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/navyabathla/leetcode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/navyabathla/leetcode/tree/master/0525-contiguous-array) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/navyabathla/leetcode/tree/master/0135-candy) |
 | [0316-remove-duplicate-letters](https://github.com/navyabathla/leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/navyabathla/leetcode/tree/master/0502-ipo) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/navyabathla/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0763-partition-labels](https://github.com/navyabathla/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/navyabathla/leetcode/tree/master/0767-reorganize-string) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/navyabathla/leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/navyabathla/leetcode/tree/master/0389-find-the-difference) |
 | [0455-assign-cookies](https://github.com/navyabathla/leetcode/tree/master/0455-assign-cookies) |
+| [0502-ipo](https://github.com/navyabathla/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/navyabathla/leetcode/tree/master/0506-relative-ranks) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/navyabathla/leetcode/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0692-top-k-frequent-words](https://github.com/navyabathla/leetcode/tree/master/0692-top-k-frequent-words) |
@@ -831,6 +834,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/navyabathla/leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/navyabathla/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/navyabathla/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/navyabathla/leetcode/tree/master/0502-ipo) |
 | [0506-relative-ranks](https://github.com/navyabathla/leetcode/tree/master/0506-relative-ranks) |
 | [0692-top-k-frequent-words](https://github.com/navyabathla/leetcode/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/navyabathla/leetcode/tree/master/0767-reorganize-string) |
