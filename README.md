@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/navyabathla/leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2540-minimum-common-value](https://github.com/navyabathla/leetcode/tree/master/2540-minimum-common-value) |
 | [2706-buy-two-chocolates](https://github.com/navyabathla/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/navyabathla/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/navyabathla/leetcode/tree/master/2956-find-common-elements-between-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/navyabathla/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2963-count-the-number-of-good-partitions](https://github.com/navyabathla/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
@@ -393,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/navyabathla/leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2448-minimum-cost-to-make-array-equal](https://github.com/navyabathla/leetcode/tree/master/2448-minimum-cost-to-make-array-equal) |
 | [2706-buy-two-chocolates](https://github.com/navyabathla/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/navyabathla/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/navyabathla/leetcode/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/navyabathla/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3433-count-mentions-per-user](https://github.com/navyabathla/leetcode/tree/master/3433-count-mentions-per-user) |
@@ -1097,6 +1099,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/navyabathla/leetcode/tree/master/0200-number-of-islands) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/navyabathla/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/navyabathla/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Combinatorics
 |  |
 | ------- |
