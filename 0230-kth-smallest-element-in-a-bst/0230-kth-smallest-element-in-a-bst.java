@@ -25,7 +25,7 @@ class Solution {
 
     private void inorder(TreeNode root, int k) {
 
-        if (root == null || count >= k) {
+        if (root == null) {
             return;
         }
 
