@@ -1023,6 +1023,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/navyabathla/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navyabathla/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/navyabathla/leetcode/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/navyabathla/leetcode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/navyabathla/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/navyabathla/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navyabathla/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -1058,6 +1059,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/navyabathla/leetcode/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/navyabathla/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/navyabathla/leetcode/tree/master/0542-01-matrix) |
+| [0547-number-of-provinces](https://github.com/navyabathla/leetcode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/navyabathla/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navyabathla/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0797-all-paths-from-source-to-target](https://github.com/navyabathla/leetcode/tree/master/0797-all-paths-from-source-to-target) |
@@ -1099,6 +1101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/navyabathla/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/navyabathla/leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/navyabathla/leetcode/tree/master/0547-number-of-provinces) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/navyabathla/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/navyabathla/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1139,6 +1142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/navyabathla/leetcode/tree/master/0547-number-of-provinces) |
 | [0797-all-paths-from-source-to-target](https://github.com/navyabathla/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/navyabathla/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/navyabathla/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
