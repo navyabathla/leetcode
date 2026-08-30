@@ -1027,6 +1027,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0623-add-one-row-to-tree](https://github.com/navyabathla/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/navyabathla/leetcode/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navyabathla/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/navyabathla/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/navyabathla/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0814-binary-tree-pruning](https://github.com/navyabathla/leetcode/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/navyabathla/leetcode/tree/master/0872-leaf-similar-trees) |
@@ -1062,6 +1063,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/navyabathla/leetcode/tree/master/0547-number-of-provinces) |
 | [0623-add-one-row-to-tree](https://github.com/navyabathla/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/navyabathla/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0785-is-graph-bipartite](https://github.com/navyabathla/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/navyabathla/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/navyabathla/leetcode/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/navyabathla/leetcode/tree/master/0994-rotting-oranges) |
@@ -1102,6 +1104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/navyabathla/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/navyabathla/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/navyabathla/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/navyabathla/leetcode/tree/master/0785-is-graph-bipartite) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/navyabathla/leetcode/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1971-find-if-path-exists-in-graph](https://github.com/navyabathla/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/navyabathla/leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -1143,6 +1146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/navyabathla/leetcode/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/navyabathla/leetcode/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/navyabathla/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1791-find-center-of-star-graph](https://github.com/navyabathla/leetcode/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/navyabathla/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -1259,4 +1263,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/navyabathla/leetcode/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/navyabathla/leetcode/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/navyabathla/leetcode/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
