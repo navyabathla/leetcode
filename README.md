@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/navyabathla/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/navyabathla/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/navyabathla/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/navyabathla/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/navyabathla/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/navyabathla/leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/navyabathla/leetcode/tree/master/0137-single-number-ii) |
@@ -963,6 +964,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/navyabathla/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0130-surrounded-regions](https://github.com/navyabathla/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/navyabathla/leetcode/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/navyabathla/leetcode/tree/master/0542-01-matrix) |
 | [0867-transpose-matrix](https://github.com/navyabathla/leetcode/tree/master/0867-transpose-matrix) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/navyabathla/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/navyabathla/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/navyabathla/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/navyabathla/leetcode/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/navyabathla/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/navyabathla/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/navyabathla/leetcode/tree/master/0199-binary-tree-right-side-view) |
@@ -1055,6 +1058,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/navyabathla/leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/navyabathla/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/navyabathla/leetcode/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/navyabathla/leetcode/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/navyabathla/leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/navyabathla/leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/navyabathla/leetcode/tree/master/0226-invert-binary-tree) |
@@ -1102,6 +1106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/navyabathla/leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/navyabathla/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/navyabathla/leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/navyabathla/leetcode/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/navyabathla/leetcode/tree/master/0785-is-graph-bipartite) |
