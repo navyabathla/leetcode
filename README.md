@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/navyabathla/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/navyabathla/leetcode/tree/master/0076-minimum-window-substring) |
 | [0093-restore-ip-addresses](https://github.com/navyabathla/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0115-distinct-subsequences](https://github.com/navyabathla/leetcode/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/navyabathla/leetcode/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/navyabathla/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/navyabathla/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/navyabathla/leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/navyabathla/leetcode/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/navyabathla/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/navyabathla/leetcode/tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/navyabathla/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/navyabathla/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/navyabathla/leetcode/tree/master/0131-palindrome-partitioning) |
