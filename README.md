@@ -714,6 +714,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/navyabathla/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0509-fibonacci-number](https://github.com/navyabathla/leetcode/tree/master/0509-fibonacci-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/navyabathla/leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0836-rectangle-overlap](https://github.com/navyabathla/leetcode/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/navyabathla/leetcode/tree/master/0869-reordered-power-of-2) |
 | [0877-stone-game](https://github.com/navyabathla/leetcode/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/navyabathla/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -1273,6 +1274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/navyabathla/leetcode/tree/master/0836-rectangle-overlap) |
 | [3623-count-number-of-trapezoids-i](https://github.com/navyabathla/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Quicksort
 |  |
