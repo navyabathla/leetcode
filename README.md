@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/navyabathla/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3433-count-mentions-per-user](https://github.com/navyabathla/leetcode/tree/master/3433-count-mentions-per-user) |
 | [3483-unique-3-digit-even-numbers](https://github.com/navyabathla/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/navyabathla/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3623-count-number-of-trapezoids-i](https://github.com/navyabathla/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/navyabathla/leetcode/tree/master/3634-minimum-removals-to-balance-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/navyabathla/leetcode/tree/master/3719-longest-balanced-subarray-i) |
@@ -745,6 +746,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2963-count-the-number-of-good-partitions](https://github.com/navyabathla/leetcode/tree/master/2963-count-the-number-of-good-partitions) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/navyabathla/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3433-count-mentions-per-user](https://github.com/navyabathla/leetcode/tree/master/3433-count-mentions-per-user) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/navyabathla/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3623-count-number-of-trapezoids-i](https://github.com/navyabathla/leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 ## Reservoir Sampling
 |  |
